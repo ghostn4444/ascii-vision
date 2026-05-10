@@ -1,0 +1,15 @@
+# ascii-vision GUI — Python dependencies
+# Install with: pip install -r requirements_ui.txt
+#
+# Windows tkinter - Python ✅
+# macOS: tkinter - Python ✅
+#
+# Note: tkinter is part of Python's standard library.
+#   Windows / macOS : bundled with the official Python installer
+#   Linux (Debian)  : sudo apt install python3-tk
+#   Linux (Fedora)  : sudo dnf install python3-tkinter
+#   Linux (Arch)    : sudo pacman -S tk
+
+# Inherited from ascii_vision.py (core player)
+opencv-python>=4.8.0
+numpy>=1.24.0
