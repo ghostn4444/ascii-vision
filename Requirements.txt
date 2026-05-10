@@ -1,0 +1,8 @@
+# ascii-vision — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer vision / video decoding
+opencv-python>=4.8.0
+
+# Numerical computing (vectorised frame processing)
+numpy>=1.24.0
